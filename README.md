@@ -27,4 +27,4 @@ Python 3, cmd/terminal or any IDE (vscode or pycharm)
    2. Type the following code : pip install -r requirements.txt (Python 2) or pip3 install -r requirements.txt (Python 3)
 
 4. Usage : 
-   1. python wifi_passwords_stealer.py (on cmd of vitcim machine) or double click the file.
+   1. python wifi_passwords_stealer.py or double click the file (on vitcim machine).
